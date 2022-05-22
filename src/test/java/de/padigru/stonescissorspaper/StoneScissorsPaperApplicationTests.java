@@ -1,10 +1,10 @@
-package de.padigru.stonescissorpaper;
+package de.padigru.stonescissorspaper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StoneScissorPaperApplicationTests {
+class StoneScissorsPaperApplicationTests {
 
 	@Test
 	void contextLoads() {

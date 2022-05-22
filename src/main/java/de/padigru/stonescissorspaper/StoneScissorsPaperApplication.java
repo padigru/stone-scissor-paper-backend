@@ -1,13 +1,13 @@
-package de.padigru.stonescissorpaper;
+package de.padigru.stonescissorspaper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StoneScissorPaperApplication {
+public class StoneScissorsPaperApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StoneScissorPaperApplication.class, args);
+		SpringApplication.run(StoneScissorsPaperApplication.class, args);
 	}
 
 }
