@@ -1,6 +1,6 @@
 # Stone Scissors Paper Backend
 
-Backend for a stone, scissor and paper game. This backend has one endpoint to play the game. For this game you can use [this application](https://github.com/padigru/stone-scissor-paper-frontend) as frontend.
+Backend for a stone, scissors and paper game. This backend has one endpoint to play the game. For this game you can use [this application](https://github.com/padigru/stone-scissor-paper-frontend) as frontend.
 
 If you run the backend locally, you can access the Api-Documentation with http://localhost:8080/swagger-ui/index.html
 
